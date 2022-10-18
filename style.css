@@ -1,0 +1,27 @@
+body{
+    background-color: #F6F7EB;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+#rock{
+    background-color: #ffffff;
+
+}
+button{
+    padding: 10px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: 20px;
+    border: none;
+}
+button img{
+    width: 50%;
+}
+#paper{
+    background-color: #FED766;
+}
+#scissors{
+    background-color: #1B1F3B;
+}
